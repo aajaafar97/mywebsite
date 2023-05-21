@@ -1,2 +1,2 @@
-Flask==x.y.z
+Flask==2.3.2
 gunicorn
